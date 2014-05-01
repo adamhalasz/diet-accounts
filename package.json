@@ -1,0 +1,18 @@
+{
+	"name" : "diet-accounts",
+	"version": "v0.1.1",
+	"description": "Account Management",
+	"keywords": ["account", "user", "account management", "accunt api", "mysql", "authorization", "account authorization", "user authentication", "account authentication", "login account", "logout account", "update account", "delete user"],
+	"bugs" : { 
+		"url" : "http://github.com/adamhalasz/diet-accounts/issues"
+	, "email" : "mail@adamhalasz.com"
+	},
+	"license": "MIT",
+	"author" : {
+		"name"	: "Halász Ádám",
+		"email"	: "mail@adamhalasz.com",
+		"url"	:"http://adamhalasz.com/"
+	},
+	"main" : "index.js",
+	"engines" : { "node" : ">=0.8.21" }
+}
